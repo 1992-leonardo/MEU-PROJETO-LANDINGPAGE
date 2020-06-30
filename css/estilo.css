@@ -1,0 +1,189 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    /*Aqui eu defino a cor da fonte do meu site */
+    color: #ddd;
+}
+
+style body img {    
+    width: 100%;
+    height: 100%;"
+}
+
+{
+    padding; 0;
+    margin: 0;
+}
+
+.wrapper {
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* //////////////////*/
+/* ////ASIDE/////*/
+/*//////////////*/
+#aside {
+    float: left;
+    width: 27%;
+    /* width: 25%; aqui eu coloco o tamanho da margen largura */
+    height: 100%;
+    /* Aqui eu coloco a altura da minha margem  */
+    position: fixed;
+    background-color: ;
+}
+
+.inner {
+    padding: 30px;
+    /* aqui eu coloco a altura do meus aside */
+}
+
+#aside_form input {
+    width: 100%;
+    /* aqui eu deixo no tamanho que eu quero a barra de buscar */
+    padding: 3px;
+    border-radius: 5px;
+    border: none;
+}
+
+#aside_header h2 {
+    border-bottom: 4px solid 
+    hotpink;
+    width: 100px;
+    /* Aqui eu defino o tamanho da minha risca */
+    padding: 10px;
+    /* aqui eu defino a distância uma da outra, de cima pra baixo */
+}
+
+#aside li {
+    list-style: none;
+    padding: 10px 0px;
+}
+
+#aside a {
+    text-decoration: none;
+    color: #ddd;
+}
+
+#aside_footer p {
+    position: fixed;
+    bottom: 10px;
+    color: rgb(104, 104, 104);
+}
+/* //////////////////*/
+/* ////MAIN/////*/
+/*//////////////*/
+
+#main{
+    float: right;
+    width: 75%;
+}
+
+#main_header {
+    width: 100%;
+    min-height: 60px;
+    border-bottom: 4px solid
+     hotpink;
+}
+
+.brand{
+    float: left;
+}
+
+.icons {
+    float: right;
+}
+
+.icons li {
+    display: inline;
+    padding: 0px 20px;
+}
+
+.icons a {
+    text-decoration: none;
+    color: #ddd;
+}
+
+/* /////////////////*/
+/* ///////BANNER////*/
+/*/////////////////*/
+
+#main_banner {
+    width: 100 %;
+    height: 250px;
+    padding: 20px 0px;
+}
+
+.main_banner_esquerda {
+    float: left;
+}
+
+.main_banner_esquerda h1 {
+    font-size: 30px;
+    padding: 10px 0px;
+}
+
+.main_banner_esquerda p {
+    margin: 20px 0px;
+    padding: 10px 0px;
+}
+
+button {
+    background-color: #fff;
+    border: 2px solid hotpink;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.main_banner_direita {
+    float: right;
+}
+
+.main_banner_direita img {
+    height: 250px;
+    border-radius: 10px;
+}
+
+/* //////////////*/
+/*  MAIN CURSOS/*/
+/*/////////////*/
+
+#main_cursos h2 {
+    border-bottom: 4px solid hotpink;
+    width: 350px;
+    padding: 5px 0px;
+}
+
+#main_cursos h3 {
+    padding: 20px;
+    }
+
+    #main_cursos p {
+        padding: 10px;
+        color: #ddd;
+    }
+
+    .box {
+        width: 45%;
+        float: left;
+        padding: 20px 0px;
+    }
+
+    article img {
+        float: left;
+        border: 0px solid gray;
+        padding: 00px;
+        margin: 30px 20px;
+        color: hotpink;
+        transform: rotate(0deg);
+        max-width: 200px;
+
+    }
+    /* aqui eu começo outra estilização */
+
+
+
+    
+    
+    
